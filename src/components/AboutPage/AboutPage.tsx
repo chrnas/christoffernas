@@ -15,7 +15,7 @@ const AboutPage: React.FC = () => {
   return (
     <section data-testid="about-section" className="about-section" id="about">
       <h1 data-testid="about-section-header" className="app-header">
-        Christoffer Näss
+        Christoffer Näs
       </h1>
       <div className="about-grid-container">
         <div className="grid-item">
